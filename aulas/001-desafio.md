@@ -11,3 +11,9 @@
 | Negrito | **Negrito** |
 | Itálico | _Itálico_   |
 | Riscado | ~~Riscado~~ |
+
+### Desafio Avançado
+
+```
+git commit --amend
+```
