@@ -2,4 +2,12 @@
 
 ### Desafio iniciante
 
-![](001.png)
+![Terminal com o tema sorin](001.png)
+
+### Desafio intermediário
+
+| Opções  | Exemplo     |
+| ------- | ----------- |
+| Negrito | **Negrito** |
+| Itálico | _Itálico_   |
+| Riscado | ~~Riscado~~ |
